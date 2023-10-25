@@ -7,7 +7,7 @@ The intention is to showcase my analytical capabilities including skills such as
 - Analysis
 - Presentation
 
-These case studies have been anonymised to protect the companies, and any data shared has been anonymised. 
+These case studies have been anonymised to protect the companies, and any data included has been anonymised. 
 
 
 ## [Company 1](/company_1)
@@ -23,6 +23,11 @@ Skills tested:
 
 ## Company 2
 
+[Case Study Presentation](/company_2/2_output/company_2_case_study.pdf)
 
+Skills tested:
 
-## Company 3
+- Analysis
+- Python
+- Analytics Infrastructure Design
+- Presentation and Writing a Business Case

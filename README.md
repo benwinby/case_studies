@@ -21,7 +21,7 @@ Skills tested:
 - AB Testing
 
 
-## Company 2
+## [Company 2](/company_2/)
 
 [Case Study Presentation](/company_2/2_output/company_2_case_study.pdf)
 

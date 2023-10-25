@@ -1,10 +1,28 @@
-# case_studies
+# Analytics Case Studies
 
-This repository includes case study examples that have been completed over the last couple of months. 
+This repo includes a number of case studies that I have completed whilst applying for roles within the Analytics space. 
 
-This seeks to illustrate my skills in:
+The intention is to showcase my analytical capabilities including skills such as:
 - SQL 
-- analysis
-- presentation
+- Analysis
+- Presentation
 
-The companies who the case studies relate to have been anonymised - with all data anonymised too. 
+These case studies have been anonymised to protect the companies, and any data shared has been anonymised. 
+
+
+## [Company 1](/company_1)
+
+[Case Study Presentation](/company_1/company_1_case_study.pdf)
+
+Skills tested:
+- Analysis
+- SQL 
+- Modelling/Database Architecure/Analytics Engineering
+- AB Testing
+
+
+## Company 2
+
+
+
+## Company 3

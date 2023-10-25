@@ -31,3 +31,13 @@ Skills tested:
 - Python
 - Analytics Infrastructure Design
 - Presentation and Writing a Business Case
+
+## [Company 3](/company_3/)
+
+[Case Study Presentation](/company_3/2_output/company_3_case_study.pdf)
+
+Skills tested:
+
+- Knowledge of marketing and tracking technology
+- Understanding of Attribution modelling
+- Marketing analytics techniques

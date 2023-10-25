@@ -12,7 +12,7 @@ These case studies have been anonymised to protect the companies, and any data s
 
 ## [Company 1](/company_1)
 
-[Case Study Presentation](/company_1/company_1_case_study.pdf)
+[Case Study Presentation](/company_1/2_output/company_1_case_study.pdf)
 
 Skills tested:
 - Analysis

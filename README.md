@@ -25,7 +25,7 @@ I have worked across a number of subdisciplines including:
 
 As well as brief projects focusing on Fraud and Customer Service. 
 
-I have experience at all steps in the journey of the analysis process - from Tracking Implementation, Analytics Engineering, BI and Visualistion all the way through to Analysis and AB testing. 
+I have experience at all steps in the analytics process - from Tracking Implementation, Analytics Engineering, BI and Visualistion all the way through to Analysis and AB testing. 
 
 [My LinkedIn can be found here](https://www.linkedin.com/in/benwinby/)
 

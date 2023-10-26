@@ -51,7 +51,7 @@ Skills tested:
 - Analytics Infrastructure Design
 - Presentation and Writing a Business Case
 
-## [Company 3](/company_3/)
+## [Company 3 Case Study](/company_3/)
 
 [Case Study Presentation](/company_3/2_output/company_3_case_study.pdf)
 

@@ -42,7 +42,7 @@ Skills tested:
 
 ## [Company 2 Case Study](/company_2/)
 
-[Case Study Presentation](/company_2/2_output/company_2_case_study.pdf)
+[Final Presentation](/company_2/2_output/company_2_case_study.pdf)
 
 Skills tested:
 
@@ -53,7 +53,7 @@ Skills tested:
 
 ## [Company 3 Case Study](/company_3/)
 
-[Case Study Presentation](/company_3/2_output/company_3_case_study.pdf)
+[Final Presentation](/company_3/2_output/company_3_case_study.pdf)
 
 Skills tested:
 

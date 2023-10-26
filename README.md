@@ -1,6 +1,6 @@
 # Analytics Case Studies
 
-Hi - my name is Ben Winby and I have created this repo to showcase my technical skills and capabilities. 
+I have created this repo to showcase my technical skills and capabilities. 
 
 This repo is comprised of a number of case studies that I have completed whilst applying for roles within the Analytics space. 
 
@@ -13,7 +13,7 @@ These case studies have been anonymised to protect the companies, and any data i
 
 ## Profile
 
-My name is Ben Winby and I have over 10 years experience within the Analytics space. I have primarily worked within start-up and scale-up organisations - as both an IC and in a leadership capapcity. 
+I have over 10 years experience within the Analytics space. I have primarily worked within start-up and scale-up organisations - as both an IC and in a leadership capapcity. 
 
 I have managed teams of up to 20 people in size and have been a trusted advisor to the C suite. 
 
@@ -27,7 +27,7 @@ As well as brief projects focusing on Fraud and Customer Service.
 
 I have experience at all steps in the analytics process - from Tracking Implementation, Analytics Engineering, BI and Visualistion all the way through to Analysis and AB testing. 
 
-[My LinkedIn can be found here](https://www.linkedin.com/in/benwinby/)
+For a full overview of my experience and to get in touch please take a look [at my LinkedIn Profile](https://www.linkedin.com/in/benwinby/)
 
 ## [Company 1 Case Study](/company_1)
 

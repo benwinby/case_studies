@@ -60,3 +60,14 @@ Skills tested:
 - Knowledge of marketing and tracking technology
 - Understanding of Attribution modelling
 - Marketing analytics techniques
+
+## [Company 4 Case Study](/company_4/)
+
+[Final Presentation](/company_4/2_output/company_4_case_study.pdf)
+
+Skills tested:
+
+- SQL
+- Data Modelling 
+- Data warehouse design and architecture
+- Technical communication

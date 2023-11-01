@@ -6,7 +6,7 @@ select
   , count(distinct case when activity_status = 'active' then user_id end)/ count(distinct case when account_status = 'open' then user_id end) as seven_day_active_users
 
 
- FROM `analytics-take-home-test.monzo_datawarehouse_BW.dim_user_activity_status`
+ FROM `analytics-take-home-test.company_4_datawarehouse_BW.dim_user_activity_status`
 
 
 where _date < '2020-09-01'

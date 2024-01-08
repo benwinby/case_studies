@@ -1,10 +1,10 @@
 # Analytics Case Studies
 
-I have created this repo to showcase my technical skills and capabilities. 
+This repo was created to showcase my technical skills and capabilities. 
 
-This repo is comprised of a number of case studies that I have completed whilst applying for roles within the Analytics space. 
+The repo is comprised of a number of case studies that I have completed whilst applying for roles within the Analytics space. 
 
-The intention is to showcase my analytical capabilities including skills such as:
+The intention is to showcase my analytical capabilities including:
 - SQL 
 - Analysis
 - Presentation
